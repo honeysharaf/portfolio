@@ -4590,9 +4590,7 @@ input[type="button"].btn-block {
           justify-content: space-between;
 }
 
-.navbar-brand {
-  height:150;
-  width:50%
+.navbar-brand { 
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
