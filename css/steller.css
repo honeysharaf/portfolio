@@ -11633,7 +11633,8 @@ pre {
 }
 
 #preloader{
-  background: #000;
+  background: #000 url(imgs/bold-preloader.gif) no-repeat center center;
+  background-size: 20%;
   height: 100vh;
   width: 100%;
   position: fixed;
