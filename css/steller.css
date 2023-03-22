@@ -11460,6 +11460,7 @@ pre {
 
 .header .container .infos {
   margin-top: 120px;
+  padding-left: 40px;
 }
 
 .header .container .infos .subtitle {
@@ -11647,6 +11648,7 @@ pre {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  z-index: 1030;
 }
 
 .icon-bar a {
